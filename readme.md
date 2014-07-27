@@ -1,3 +1,5 @@
+### Mirror of the Moby Project ###
+```
 The Moby lexicon project is complete and has
 been place into the public domain. Use, sell,
 rework, excerpt and use in any way on any platform.
@@ -13,4 +15,4 @@ Grady Ward
 Arcata, CA  95521-4884
 
 daedal@myrealbox.com
-
+```
